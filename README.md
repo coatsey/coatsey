@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 My Projects: </h2>
 
-- <b>Azure / Cloud Projects</b>
+- <b>Cybersecurity Azure / Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/coatsey/Cloud-SOC)
 - <b>Full Stack Web App (React, Javascript)</b>
   - [Memory Game](https://github.com/jrobi133/memory-games)
